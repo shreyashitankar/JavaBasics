@@ -1,5 +1,3 @@
-Sure! Here are some **Java multithreading** interview questions that cover a range of concepts, from basic to more advanced:
-
 # **Basic Multithreading Concepts**
 1. **What is a thread in Java, and how does it differ from a process?**
    - A **thread** in Java is a lightweight unit of execution within a process. A **process** is a separate program with its own memory, while threads within a process share the same memory space.
